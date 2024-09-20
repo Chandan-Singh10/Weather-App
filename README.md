@@ -83,7 +83,7 @@ This project was built using React v 17.0.2, Redux v 4.1.2, Chakra UI, CSS and R
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/m-sehrawat/Weather-App) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/Chandan-Singh10/Weather-App) or just clone the project using this command. 
 
 
 ```
