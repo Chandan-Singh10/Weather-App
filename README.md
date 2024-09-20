@@ -89,7 +89,7 @@ The project repository can be found in [GitHub link](https://github.com/Chandan-
 ```
 Using HTTPS
 
-# git clone  https://github.com/m-sehrawat/Weather-App.git
+# git clone  https://github.com/Chandan-Singh10/Weather-App.git
 ```
 
 + Open terminal on your workspace with
