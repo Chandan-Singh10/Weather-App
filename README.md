@@ -149,7 +149,7 @@ npm run dev
 If you want to contact me, you can reach me through below handles.
 
 [![linkedin](https://img.shields.io/badge/Chandan_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-singh10/)
-[![Twitter](https://img.shields.io/badge/Mohit_Sehrawat-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/m-sehrawat/)
+[![Twitter](https://img.shields.io/badge/Chandan_Singh-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/m-sehrawat/)
 
 © 2024 Chandan Singh
 
