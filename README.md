@@ -53,7 +53,7 @@ To use the app, type a name of the city and click on search/press Enter or else 
 
 <br />
 
-## Demo
+## Demo <---
 
 https://chandan-weather-app.vercel.app
 
