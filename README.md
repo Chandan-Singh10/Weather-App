@@ -1,6 +1,7 @@
 <h1 align="center">Weather App</h1> 
 
-![weather app cover](https://user-images.githubusercontent.com/91532881/166434542-76727ccb-0c98-4646-84fb-58e86d7ec3ff.png)
+<img width="1437" alt="Screenshot 2024-09-30 at 4 03 41 PM" src="https://github.com/user-attachments/assets/0af02f1f-8745-439c-9b44-aef81a91804d">
+
 
 <h2 align="center">Web application to show the current and upcoming week weather forecast.</h2>    
 
